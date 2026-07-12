@@ -1,0 +1,2 @@
+- [Portfolio site terraform baseline gaps](project_portfolio_site_terraform.md) — recurring S3/CloudFront IaC gaps + what's already done right, re-verify before reporting
+- [Backend bootstrap pattern](reference_backend_bootstrap_pattern.md) — backend.tf's commented-out S3 backend is intentional first-run bootstrap, not an oversight
